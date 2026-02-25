@@ -28,4 +28,4 @@
 - incomes.json - данные по доходам
 
 ## GitHub Pages
-Ссылка на работающий проект: (будет позже)
+Ссылка на работающий проект: https://johnnyutah5551.github.io/wb-api-test/
